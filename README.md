@@ -6,6 +6,6 @@
 
 ![chemcompute1](chemcompute1.png)
 
-2. On the next page enter `https://github.com/janash/molssi-python-vis-2022` and click "Pull Repo"
+2. On the next page enter `https://github.com/janash/molssi-python-vis-2022.git` and click "Pull Repo"
 
 ![chemcomptue2](chemcompute2.png)
