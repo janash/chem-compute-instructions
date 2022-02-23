@@ -9,3 +9,5 @@
 2. On the next page enter `https://github.com/janash/molssi-python-vis-2022.git` and click "Pull Repo"
 
 ![chemcomptue2](chemcompute2.png)
+
+This should download the starting files for the workshop to chemcompute. You are now ready for the workshop!
